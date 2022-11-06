@@ -1,6 +1,6 @@
 ![Logo](nlru.png)
-# NLRU Score Keeper
-A simple score keeper to be used by the NLRU when live streaming matches to provide a simple score board when using OBS. This application was developed by Liam Warren.
+# NLRU Scorekeeper
+A simple scorekeeper to be used by the NLRU when live streaming matches to provide a simple score board when using OBS. This application was developed by Liam Warren.
 
 ## Setup Instructions
 ### Python Virtual Environment
